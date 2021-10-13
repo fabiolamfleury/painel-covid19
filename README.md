@@ -1,22 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
+This repository is a web application for viewing data about the COVID-19 pandemic.
 
 * How to run the app
-
 If you have docker and docker-compose installed, just execute the command line
 
 ``` sudo docker-compose up ```
